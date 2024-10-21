@@ -61,7 +61,7 @@ OpportuNest is a Laravel-based platform designed for job seekers and employers t
 
 ## Learning Laravel through the Laracasts Series
 
-This project was built as a part of learning from the **[30 Days to Learn Laravel 11](https://laracasts.com/series/30-days-to-learn-laravel-11/episodes/30)** series on Laracasts. The series covers Laravel's essential features, including routing, models, controllers, middleware, and much more. Each lesson contributed to building a fully functional job listing platform.
+This project was built as a part of learning from the **[30 Days to Learn Laravel 11](https://laracasts.com/series/30-days-to-learn-laravel-11)** series on Laracasts. The series covers Laravel's essential features, including routing, models, controllers, middleware, and much more. Each lesson contributed to building a fully functional job listing platform.
 
 ### Key Lessons Applied:
 1. **Routing and Controllers**: Created routes for various pages and linked them to controllers that manage logic.
