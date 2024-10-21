@@ -36,7 +36,7 @@ OpportuNest is a Laravel-based platform designed for job seekers and employers t
 
 5. Set up your database in the `.env` file:
     ```env
-    DB_CONNECTION=mysql
+    DB_CONNECTION=sqlite
     DB_HOST=127.0.0.1
     DB_PORT=3306
     DB_DATABASE=your_database
