@@ -15,7 +15,7 @@ OpportuNest is a Laravel-based platform designed for job seekers and employers t
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/opportunest.git
+    git clone https://github.com/mostafaamahmoudd/opportu-nest
     cd opportunest
     ```
 
