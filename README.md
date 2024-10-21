@@ -73,6 +73,3 @@ This project was built as a part of learning from the **[30 Days to Learn Larave
    
 ## Contributing
 Feel free to submit a pull request to suggest improvements or contribute to the project.
-
-## License
-This project is open-source and available under the [MIT License](LICENSE).
